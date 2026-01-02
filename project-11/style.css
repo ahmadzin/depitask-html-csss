@@ -1,0 +1,132 @@
+.container {
+    position: absolute;
+    width: 637px;
+    height: 414px;
+    angle: 0 deg;
+    opacity: 1;
+    top: 144.33px;
+    left: 65px;
+    gap: 32px;
+
+}
+h1{
+    width: 637px;
+    height: 176px;
+    opacity: 1;
+    font-family: Avenir;
+    font-weight: 800;
+    font-style: Heavy;
+    font-size: 72px;
+    line-height: 88px;
+    letter-spacing: 0%;
+    color: #252525;
+
+}
+p{
+    width: 586px;
+    height: 108px;
+    angle: 0 deg;
+    opacity: 1;
+    font-family: Avenir;
+    font-weight: 400;
+    font-style: Roman;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #252525CC;
+
+}
+button{
+    width: 182px;
+    height: 66px;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 10px;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    color:white;
+    background-color: black;
+
+}
+.img-cont{
+    position: absolute;
+    width: 547.6666259765625px;
+    height: 518.6567993164062px;
+    angle: 0 deg;
+    opacity: 1;
+    top: 92px;
+    left: 828px;
+}
+.img1{
+    position: absolute;
+    width: 322.6666564941406px;
+    height: 384.65679931640625px;
+    angle: 0 deg;
+    opacity: 1;
+    top: 92px;
+    left: 428px;
+
+}
+.img2{
+    position: absolute;
+    width: 322.6666564941406px;
+    height: 384.65679931640625px;
+    angle: 0 deg;
+    opacity: 1;
+    top: 226px;
+    left: 653px;
+}
+.circle{
+    position:absolute;
+    width: 1582px;
+    height: 208px;
+    angle: 0 deg;
+    opacity: 1;
+    top: 766.66px;
+    left: 64px;
+    gap: 8px;
+    border-radius: 40px;
+    padding: 64px;
+    background: #252525;
+}
+.rect{
+    width: 1184px;
+    height: 170px;
+    angle: 0 deg;   
+    opacity: 1;
+    gap: 118px;
+}
+.q{
+    width: 316px;
+    height: 170px;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 24px;
+    color: white;
+    display: inline-block;
+    gap:100px;
+    margin-right: 70px;
+}
+.cloud{
+    width: 24px;
+    height: 24px;
+    angle: 0 deg;
+    opacity: 0.5;
+}
+.white{
+    width: 316px;
+    height: 66px;
+    angle: 0 deg;
+    opacity: 1;
+    font-family: Avenir;
+    font-weight: 400;
+    font-style: Book;
+    font-size: 24px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white
+}

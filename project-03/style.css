@@ -1,0 +1,32 @@
+
+.top-right{
+    position:absolute;
+    width:300px;
+    height:174px;
+    top:122px;
+    left: 851px;
+    gap:16px;
+    display: inline-block;
+}
+.top-left{
+    width:526px;
+    height:108px;
+    display: inline;
+    width:1313px;
+    top:122px;
+    left:64px;
+    position:absolute;
+}
+
+button{
+    color:white;
+    background-color: black;
+    border-radius: 16px;
+}
+img{
+    position:absolute;
+    width:1313px;
+    height:812px;
+    left:64px;
+    top: 316px;
+}

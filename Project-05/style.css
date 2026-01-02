@@ -1,0 +1,11 @@
+h1{
+    font-size: 88px;
+    width:531px;
+}
+.box{
+    display: inline-block;
+    width:30%;
+}
+.box p{
+    width:400px;
+}

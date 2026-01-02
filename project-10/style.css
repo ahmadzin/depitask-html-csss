@@ -1,0 +1,80 @@
+body{
+    width: 1440px;
+    height: 926px;
+    opacity: 1;
+    background: black;
+}
+.container {
+    position: absolute;
+    width: 449px;
+    height: 582px;
+    top: 169px;
+    left: 132px;
+    gap: 24px;
+}   
+h1{
+    width: 370px;
+    height: 324px;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 700px;
+    font-style: Bold;
+    font-size: 72px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: violet;
+}
+.c{
+    font-family: Poppins;
+    font-weight: 700px;
+    font-style: Bold;
+    font-size: 72px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: aqua;
+
+}
+.i{
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 72px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: orange;
+}
+.img-container {
+    width: 742px;
+    height: 792px;
+    opacity: 1;
+    top: 67px;
+    left: 634px;
+    gap: 18px;
+    position:absolute;
+}
+p{
+    
+    width: 449;
+    height: 144;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
+button{
+    width: 182px;
+    height: 66px;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 10px;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    color: black;
+    background: white;}
