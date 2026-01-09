@@ -1,0 +1,150 @@
+.top{
+    width: 1440px;
+    height: 1345px;
+
+}
+.topl{
+    position: absolute;
+    width: 464px;
+    height: 498px;
+    top: 157px;
+    left: 126px;
+}
+h1{
+    width: 464px;
+    height: 240px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: 0%;
+
+}
+.topp{
+    width: 412;
+    height: 128;
+    opacity: 1;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+button{
+    width: 179;
+height: 66;
+border-radius: 36px;
+padding-top: 24px;
+padding-right: 48px;
+padding-bottom: 24px;
+padding-left: 48px;
+color: white;
+background-color: brown;
+}
+.imr1{
+    position: absolute;
+    width: 312px;
+    height: 312px;
+    top: 344.48px;
+    left: 1010.48px;
+    border-radius: 50%;
+}
+.imr2{
+    position: absolute;
+    width: 440px;
+    height: 440px;
+    top: 6.1004028320312px;
+    top: 64px;
+    left: 730px;
+    border-radius: 50%;
+}
+.down{
+    position: absolute;
+    width: 878px;
+    height: 188px;
+    top: 702px;
+    left: 201px;
+    border-radius: 80px;
+    padding-top: 24px;
+    padding-right: 96px;
+    padding-bottom: 24px;
+    padding-left: 96px;
+    background: #ECDAC4;
+
+}
+.boxin{
+    width: 686px;
+    height: 140px;
+    margin-left: 96px;
+}
+.box{
+    width: 30%;
+    height: 140;
+    display: inline-block;  
+    margin-left: 10px;
+    
+}
+.p1{
+    width: 74px;
+    height: 48px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 15px;
+    color:black
+}
+.p2{
+    width: 170px;
+    height: 48px;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:black
+}
+.downblack{
+    position: absolute;
+    width: 1440px;
+    height: 472px;
+    top: 809px;
+    background-color: #363032;
+;
+}
+.blackin{
+    position: absolute;
+    width: 1314px;
+    height: 286px;
+    top: 138px;
+    left: 63px;
+    margin-left: 100px;
+}
+.box{
+    width: 186px;
+    height: 246px;
+    border-radius: 16px;
+    display: inline-block;
+
+}
+.dim{
+    width: 186px;
+    height: 246px;
+}
+.p1{
+    width: 168px;
+    height: 24px;
+    font-family: Poppins;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:white;
+}
