@@ -23,6 +23,7 @@ h1{
     line-height: 100%;
     letter-spacing: 0%;
     color: violet;
+    margin-bottom: 0;
 }
 .c{
     font-family: Poppins;
@@ -53,28 +54,32 @@ h1{
     position:absolute;
 }
 p{
-    
-    width: 449;
-    height: 144;
-    opacity: 1;
-    font-family: Poppins;
-    font-weight: 400;
-    font-style: Regular;
-    font-size: 24px;
-    line-height: 100%;
-    letter-spacing: 0%;
-    color: white;
+        width: 449px;
+        height: 144px;
+        opacity: 1;
+        font-family: Poppins;
+        font-weight: 400;
+        font-style: Regular;
+        font-size: 24px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        color: white;
 }
 button{
     width: 182px;
     height: 66px;
-    angle: 0 deg;
-    opacity: 1;
-    gap: 10px;
     border-radius: 36px;
     padding-top: 24px;
     padding-right: 48px;
     padding-bottom: 24px;
     padding-left: 48px;
     color: black;
-    background: white;}
+    background: white;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: 0%;
+
+}

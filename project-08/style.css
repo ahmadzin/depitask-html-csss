@@ -12,50 +12,53 @@ html{
     padding: 0;
     font-family: Arial, sans-serif;
 }
-.info-container{width: 487px;
-height: 674px;
-top: 134px;
-left: 889px;
-angle: 0 deg;
-opacity: 1;
-gap: 40px;
-position: absolute;
+.info-container{
+    position: absolute;
+    width: 487px;
+    height: 674px;
+    top: 134px;
+    left: 889px;
 }
 h1{
     width: 487px;
-height: 416px;
-opacity: 1;
-font-family: Work Sans;
-font-weight: 700;
-font-style: Bold;
-font-size: 88px;
-line-height: 104px;
-letter-spacing: 0%;
-color: #FFFFFF;
+    height: 416px;
+    font-family: Work Sans;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 88px;
+    line-height: 104px;
+    letter-spacing: 0%;
+    color: #FFFFFF;
 
 }
-p{width: 487;
-height: 96;
-font-family: Work Sans;
-font-weight: 300;
-font-style: Light;
-font-size: 24px;
-line-height: 32px;
-letter-spacing: 0%;
-color: #E5B94B;
+p{
+    width: 487px;
+    height: 96px;
+    font-family: Work Sans;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
 
 }
-button{width: 231;
+button{
+    width: 231px;
     position:absolute;
-height: 82;
-angle: 0 deg;
-opacity: 1;
-gap: 10px;
-border-radius: 36px;
-padding-top: 32px;
-padding-right: 56px;
-padding-bottom: 32px;
-padding-left: 56px;
-background: #E5B94B;
+    height: 82px;
+    border-radius: 36px;
+    padding-top: 32px;
+    padding-right: 56px;
+    padding-bottom: 32px;
+    padding-left: 56px;
+    background: #E5B94B;
+    font-family: Work Sans;
+    font-weight: 500px;
+    font-style: Medium;
+    font-size: 32px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: white;
+
 
 }

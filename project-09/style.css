@@ -1,11 +1,9 @@
 .heaad-info {
-position:absolute
-width: 756px;
-height: 310px;
-top: 64px;
-left: 295px;
-opacity: 1;
-gap: 16px;
+    position:absolute;
+    width: 756px;
+    height: 310px;
+    top: 64px;
+    left: 295px;
 }
 .top-r{
     position: absolute;
@@ -20,8 +18,6 @@ gap: 16px;
 button{
     width: 182px;
     height: 66px;
-    opacity: 1;
-    gap: 10px;
     border-radius: 36px;
     padding-top: 24px;
     padding-right: 48px;
@@ -32,11 +28,9 @@ button{
 }
 .c1{
     position: absolute;
-    width: 948;
-    height: 272;
-    angle: 0 deg;
-    opacity: 1;
-    top: 591px;
+    width: 948px;
+    height: 272px;
+    top: 691px;
     left: 428px;
     gap: 8px;
     border-radius: 144px;
@@ -50,16 +44,14 @@ button{
 }
 .bottom-l{
     position: absolute;
-    width: 462;
-height: 508;
-angle: 0 deg;
-opacity: 1;
-top: 418px;
-left: 64px;}
+    width: 462px;
+    height: 508px;
+    top: 558px;
+    left: 64px;
+}
 .circle-inner{
     width: 772px;
     height: 192px;
-    angle: 0 deg;
     opacity: 1;
     gap: 80px;
 
@@ -67,48 +59,39 @@ left: 64px;}
 .circle-text{
     width: 204px;
     height: 192px;
-    angle: 0 deg;
-    opacity: 1;
-    gap: 16px;
     display: inline-block;
 
 }
 body{
     width: 1440px;
     height: 926px;
-    angle: 0 deg;
     opacity: 1;
     background: linear-gradient(122.62deg, #C8CCCF 5.59%, #97A3A3 84.01%);
 
 }
 h1{
-    width: 756;
-height: 104;
-angle: 0 deg;
-opacity: 1;
-font-family: Poppins;
-font-weight: 700;
-font-style: Bold;
-font-size: 88px;
-leading-trim: NONE;
-line-height: 104px;
-letter-spacing: 0%;
-color: #363830;
+    width: 756px;
+    height: 104px;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 88px;
+    line-height: 104px;
+    letter-spacing: 0%;
+    color: #363830;
 
 
 }
 .top-p{
-    width: 659;
-height: 108;
-angle: 0 deg;
-opacity: 1;
-font-family: Poppins;
-font-weight: 400;
-font-style: Regular;
-font-size: 24px;
-leading-trim: NONE;
-line-height: 100%;
-letter-spacing: 0%;
-color: #363830;
+    width: 659px;
+    height: 108px;
+    opacity: 1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
 
 }

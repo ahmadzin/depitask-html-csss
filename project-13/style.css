@@ -1,0 +1,145 @@
+.mid-div{
+    position: absolute;
+    width: 637px;
+    height: 692px;
+    top: 182px;
+    left: 401px;
+    align-content: center;
+}
+h1{
+    width: 637px;
+    height: 324px;
+    font-family: Times;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 112px;
+    line-height: 108px;
+    text-align: center;
+    /* margin-bottom: 10px; */
+}
+p{
+    width: 306px;
+    height: 128px;
+    opacity: 1;
+    font-family: Times;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    margin-left: 165.5px;
+}
+button{
+    width: 182px;
+    height: 66px;
+    border-radius: 36px;
+    padding-top: 24px;
+    padding-right: 48px;
+    padding-bottom: 24px;
+    padding-left: 48px;
+    color: white;
+    background-color: black;
+    margin-left: 227.5px;
+
+}
+.l-div{
+    position: absolute;
+    width: 434px;
+    height: 104px;
+    top: 59px;
+    left: 64px;
+    text-align: center;
+}
+.r-div{
+    position: absolute;
+    width: 434px;
+    height: 104px;
+    top: 812px;
+    left: 942px;
+}
+.l-img{
+    position: absolute;
+    width: 412px;
+    height: 528px;
+    opacity: 1;
+    top: 432px;
+    left: 64px;
+}
+.r-img{
+    position: absolute;
+    width: 412px;
+    height: 528px;
+    top: 64px;
+    left: 964px;
+
+}
+.cap{
+    width: 434px;
+    height: 32px;
+    font-family: Times;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #25252573;
+    text-align: left;
+    margin-left: 10px;
+}
+.cap2{
+    width: 434px;
+    height: 64px;
+    font-family: Times;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    color: #252525CC;
+    text-align: left;
+    margin-left: 10px;
+}
+.ll-img2{
+    position: absolute;
+    width: 179.91px;
+    height: 176.57px;
+    top: 220px;
+    left: 83.88px;
+    color: #B3CFDD;
+
+}
+.lm-img2{
+    width: 255px;
+height: 320px;
+position: absolute;
+opacity: 1;
+top: 237px;
+left: 311px;
+border-width: 1.74px;
+
+}
+.rr-img2{  
+    width: 174px;
+    height: 173.51px;
+    position: absolute;
+    opacity: 1;
+    top: 647px;
+    left: 1135px;
+}
+.rm-img2{
+    position: absolute;
+    width: 191px;
+    height: 242px;
+    opacity: 1;
+    top: 535px;
+    left: 921px;
+    border-width: 1.74px;
+
+}
+.circle {
+    width: 412px;
+    /* height: 206px; Height must be exactly half the width */
+    /* The radius equals the height of the element */
+    border-radius: 206px 206px 0 0; 
+    object-fit: cover; /* Keeps image looking good */
+}

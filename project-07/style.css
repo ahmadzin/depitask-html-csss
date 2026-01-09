@@ -1,51 +1,50 @@
 h1{
-width: 833;
-height: 176;
-top: 64px;
-left: 64px;
-opacity: 1;
-font-family: Avenir;
-font-weight: 800;
-font-style: Heavy;
-font-size: 72px;
-leading-trim: NONE;
-line-height: 88px;
-letter-spacing: 0%;
+    position: absolute;
+    width: 833px;
+    height: 176px;
+    top: 64px;
+    left: 64px;
+    font-family: Avenir;
+    font-weight: 800;
+    font-style: Heavy;
+    font-size: 72px;
+    line-height: 88px;
+    letter-spacing: 0%;
 }
-.img-container{
-    width: 1312;
-height: 559;
-top: 304px;
-left: 64px;
-opacity: 1;
-gap: 16px;}
-.image-item{
-    width: 20%;
-    display: inline-block;
+.image-container{
+    position: absolute;
+    width: 100%;
+    height: 559px;
+    top: 304px;
+    left: 64px;
+    opacity: 1;
     gap: 16px;
 }
-p{width: 316;
-height: 66;
-angle: 0 deg;
-opacity: 1;
-font-family: Avenir;
-font-weight: 400;
-font-style: Roman;
-font-size: 24px;
-line-height: 100%;
-letter-spacing: 0%;
-
+.image-item{
+    width: 15%;
+    display: inline-block;
+    margin:10px;
 }
-h2{width: 316;
-height: 55;
-angle: 0 deg;
-opacity: 1;
-font-family: Avenir;
-font-weight: 800;
-font-style: Heavy;
-font-size: 40px;
-leading-trim: NONE;
-line-height: 100%;
-letter-spacing: 0%;
+p{
+    width: 316px;
+    height: 66px;
+    opacity: 1;
+    font-family: Avenir;
+    font-weight: 400;
+    font-style: Roman;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+h2{
+    width: 316;
+    height: 55;
+    font-family: Avenir;
+    font-weight: 800;
+    font-style: Heavy;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #25252559;
 
 }

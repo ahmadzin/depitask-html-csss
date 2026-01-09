@@ -2,23 +2,18 @@
     position: absolute;
     width: 637px;
     height: 477px;
-    angle: 0 deg;
     opacity: 1;
     top: 64px;
     left: 64px;
-    gap: 24px;
 
 }
 h1{
     width: 637px;
     height: 264px;
-    angle: 0 deg;
-    opacity: 1;
     font-family: Avenir;
     font-weight: 800;
     font-style: Heavy;
     font-size: 72px;
-    leading-trim: NONE;
     line-height: 88px;
     letter-spacing: 0%;
 
@@ -26,22 +21,18 @@ h1{
 p{
     width: 519px;
     height: 99px;
-    angle: 0 deg;
     opacity: 1;
     font-family: Avenir;
     font-weight: 400;
     font-style: Roman;
     font-size: 24px;
-    leading-trim: NONE;
     line-height: 100%;
     letter-spacing: 0%;
 }
 button{
     width: 182px;
     height: 66px;
-    angle: 0 deg;
     opacity: 1;
-    gap: 10px;
     border-radius: 36px;
     padding-top: 24px;
     padding-right: 48px;
@@ -55,7 +46,6 @@ button{
     position:absolute;
     width: 133px;
     height: 283.8823547363281px;
-    angle: 0 deg;
     opacity: 1;
     top: 674px;
     left: 142px;
@@ -66,11 +56,9 @@ button{
     position: absolute;
     width: 355px;
     height: 126px;
-    angle: 0 deg;
     opacity: 1;
     top: 91px;
     left: 498px;
-    gap: 36px;
 
 }
 .star1{
@@ -99,7 +87,6 @@ button{
     width: 668px;
     height: 122px;
     gap: 24px;
-    angle: 0 deg;
     opacity: 1;
     top: 838px;
     left: 708px;
@@ -109,25 +96,20 @@ button{
     padding-left: 24px;
 }
 .im2{
-    width: 80;
-height: 80;
-angle: 0 deg;
-opacity: 1;
-display: inline-block;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
 }
 .pim2{
-    width: 516;
-height: 90;
-angle: 0 deg;
-opacity: 1;
-font-family: Avenir;
-font-weight: 400;
-font-style: Roman;
-font-size: 22px;
-leading-trim: NONE;
-line-height: 100%;
-letter-spacing: 0%;
-display: inline-block;
+    width: 516px;
+    height: 90px;
+    font-family: Avenir;
+    font-weight: 400;
+    font-style: Roman;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    display: inline-block;
 }
 .im31{
     position: absolute;
@@ -152,13 +134,9 @@ display: inline-block;
     position: absolute;
     width: 316px;
     height: 436px;
-    angle: 0 deg;
     opacity: 1;
     top: 67px;
     left: 1063px;
     border-radius: 24px;
 
-}
-.bottom-l{
-    position: absolute;
 }
